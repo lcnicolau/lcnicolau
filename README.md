@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello world 👋
+
+I'm **@lcnicolau**, a Software Engineer 👨🏻‍💻 from Chile 🇨🇱.
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/100+-blue?style=social&logo=linkedine&logoColor=0A66C2&label=Followers)](https://www.linkedin.com/in/lcnicolau)
+[![Credly](https://img.shields.io/badge/3-blue?style=social&logo=credly&label=Certifications)](https://www.credly.com/users/lcnicolau)
+[![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/4071001?style=social&logo=stackoverflow&logoColor=F58025&label=Reputation)](https://stackoverflow.com/users/4071001/lcnicolau)
+[![GitHub Stars](https://img.shields.io/github/stars/lcnicolau?style=social)](https://github.com/lcnicolau?tab=repositories&sort=stargazers)
+
 
 <!--
 **lcnicolau/lcnicolau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
